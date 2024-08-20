@@ -1,0 +1,33 @@
+h1 {
+    color: darkorchid;
+    text-align: center;
+}
+h2 {
+    color: rgb(181, 78, 233);
+    text-align: center;
+}
+h3{
+    color: blueviolet;
+}
+
+#Galeria {
+    display: flex;
+    justify-items: center;
+    justify-content: start;
+}
+#Sonora{
+    display: flex;
+    justify-items: center;
+    justify-content: start;
+}
+.links{
+    text-align: center;
+}
+table{
+    text-align: center;
+}
+#trabalho{
+    margin: 0px 120px opx 120px;
+    padding-left: 75px;
+    padding-right: 75px;
+}
